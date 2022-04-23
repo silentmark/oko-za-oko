@@ -1,0 +1,11 @@
+{"name":"Oko za Oko - Dziennik","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"0ReLlfZJiW1mmFoE"}
+{"name":"Strażnicy","type":"Actor","parent":"X5NdsBXSuWuuxXRE","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"3nvOmQgPOS7DZFQM"}
+{"_id":"6u2AeMTDHwuKeDCK","name":"Gracze","type":"Actor","parent":null,"sorting":"m","sort":0,"color":"","flags":{"textColour":""}}
+{"name":"Kultyści","type":"Actor","parent":"IRKuCfg6Lyqa2IOL","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"7PRtFdGuRiP9rlWQ"}
+{"name":"Zwierzoludzie","type":"Actor","parent":"IRKuCfg6Lyqa2IOL","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"BqeZai0JWmm6nSqE"}
+{"name":"Oko za Oko","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"IRKuCfg6Lyqa2IOL"}
+{"name":"Służba","type":"Actor","parent":"7PRtFdGuRiP9rlWQ","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"PJWojC4HQLx7irB0"}
+{"name":"Oko za Oko","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"QhBfcMyQrnuLcTZT"}
+{"name":"Służba","type":"Actor","parent":"X5NdsBXSuWuuxXRE","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"T1PMbXeYxS193xWd"}
+{"name":"Wizje","type":"Scene","parent":"QhBfcMyQrnuLcTZT","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"VBWdbV7zJRKU4u7C"}
+{"name":"Mieszkańcy","type":"Actor","parent":"IRKuCfg6Lyqa2IOL","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"X5NdsBXSuWuuxXRE"}
