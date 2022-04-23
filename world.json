@@ -11,7 +11,44 @@
   "languages": [],
   "packs": [],
   "system": "wfrp4e",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "wall-height",
+      "type": "module"
+    },
+    {
+      "name": "levels",
+      "type": "module"
+    },
+    {
+      "name": "lib-wrapper",
+      "type": "module"
+    },
+    {
+      "name": "PolishCore",
+      "type": "module"
+    },
+    {
+      "name": "betterroofs",
+      "type": "module"
+    },
+    {
+      "name": "weatherblock",
+      "type": "module"
+    },
+    {
+      "name": "wfrp4e-pl",
+      "type": "module"
+    },
+    {
+      "name": "dynamic-macro-links",
+      "type": "module"
+    },
+    {
+      "name": "monks-active-tiles",
+      "type": "module"
+    }
+  ],
   "socket": false,
   "protected": false,
   "background": "worlds/wfrp4e-oko-za-oko/custom-images/eyeforeyebackground.png",
