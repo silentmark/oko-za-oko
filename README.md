@@ -14,3 +14,7 @@ https://foundryvtt.com/packages/monks-active-tiles
 oraz:
 
 https://github.com/silentmark/wfrp4e-pl
+
+Do tłumaczenia wykorzystano prace wykonane przez Mateusza Winiarskiego, przygoda dostępna tutaj: https://drive.google.com/file/d/1UjxUpq3b5fUWOCFVeIWxaTg3K93Emp_S/edit?fbclid=IwAR2Y9eXQXNsRWnLtHrKoE8w7wq2qZrncK_gH_zz2EoMaCl-uVTT5cA9KNxs
+
+Bazowałem na pracy wykonanej przez https://github.com/CStuartEKerrigan/WFRP-e4e-4e-FVTT oraz Toma Cartosa / Marka Johnsona https://www.dropbox.com/sh/qm7zu91nc473g9r/AADeAzoL9bGrUkJkJmJ1v3HSa?dl=0
