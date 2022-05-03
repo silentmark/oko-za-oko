@@ -4,7 +4,7 @@
   "description": "<p>Oko za Oko zostało originalnie opublikowanew 3 edycji Warhammer Fantasy Roleplay w 2010 roku przez Fantasy Flight i zostało zawarte w Tome of Adventure w Core Boxed Set. Jest to jeden z piewszych scenariuszy WFRP w Ubersreiku i wprowadził on kilku kluczowych BN&oacute;w, kt&oacute;rzy stanowią wizerunek Ubersreik w obecnej edycji.</p>\n<p>Scenariusz oryginalny rozgrywa się po 2516KI z miastem jako Freiburgiem, podczas gdy Zestaw Startowy 4 edycji Warhammer Fantasy Roleplay opisuje Ubersreik około 2512KI</p>",
   "authors": [],
   "flags": {},
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -50,6 +50,9 @@
     }
   ],
   "socket": false,
+  "url": "https://github.com/silentmark/oko-za-oko",
+  "manifest": "https://raw.githubusercontent.com/silentmark/oko-za-oko/main/world.json",
+  "download": "https://github.com/silentmark/oko-za-oko/releases/latest/download/wfrp4e-oko-za-oko.zip",
   "protected": false,
   "background": "worlds/wfrp4e-oko-za-oko/custom-images/eyeforeyebackground.png",
   "coreVersion": "9.266",

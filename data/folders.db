@@ -1,4 +1,5 @@
 {"name":"Oko za Oko - Dziennik","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"0ReLlfZJiW1mmFoE"}
+{"name":"Tabele (Dodatkowe)","type":"RollTable","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"3BhYhZN68zrjYPNk"}
 {"name":"Strażnicy","type":"Actor","parent":"X5NdsBXSuWuuxXRE","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"3nvOmQgPOS7DZFQM"}
 {"_id":"6u2AeMTDHwuKeDCK","name":"Gracze","type":"Actor","parent":null,"sorting":"m","sort":0,"color":"","flags":{"textColour":""}}
 {"name":"Kultyści","type":"Actor","parent":"IRKuCfg6Lyqa2IOL","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"7PRtFdGuRiP9rlWQ"}
@@ -9,3 +10,6 @@
 {"name":"Służba","type":"Actor","parent":"X5NdsBXSuWuuxXRE","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"T1PMbXeYxS193xWd"}
 {"name":"Wizje","type":"Scene","parent":"QhBfcMyQrnuLcTZT","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"VBWdbV7zJRKU4u7C"}
 {"name":"Mieszkańcy","type":"Actor","parent":"IRKuCfg6Lyqa2IOL","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"X5NdsBXSuWuuxXRE"}
+{"name":"GM","type":"JournalEntry","parent":"tOCAqJ3gvT7hkXM6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XCX9AF3iAajv5f5r"}
+{"name":"Pokoje","type":"JournalEntry","parent":"z679oPCIuxx9xJQk","sorting":"a","sort":0,"color":null,"flags":{},"_id":"tOCAqJ3gvT7hkXM6"}
+{"name":"Oko za Oka - Grunewald","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"z679oPCIuxx9xJQk"}
